@@ -1,0 +1,37 @@
+So we are reading the hands-on Iot books.
+
+Relax your body.Have a good morning！
+
+1.the iot loop
+
+So the basic is to make everything in reality world into simulated in digital world，and then make them communicate through the internet. So the link is like this： 
+realworld things--
+sensor--
+devices--
+prototype--
+server--
+server logic--
+prototype--
+device--
+energy suppliment workers--
+do operation work--
+sensor--
+.
+.
+.
+this is the Iot loop.
+
+2.what is the needed knowledge
+
+devices
+prototype
+cloud server
+logic
+security
+sensor
+worker
+.
+.
+.
+
+ok， have a nice day！
